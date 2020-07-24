@@ -1,8 +1,8 @@
 Mobile Users:
-If you can't see any files, tap on "show code"!
+If you can't see any files, tap on "view code"!
 
 Handy-Nutzer:
-Sollten dir hier keine Dateien angezeigt werden, tippe auf "show code"!
+Sollten dir hier keine Dateien angezeigt werden, tippe auf "view code"!
 
 
 Here you'll find our server's adresses and the rules*.
