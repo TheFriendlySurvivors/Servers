@@ -1,0 +1,46 @@
+Server Regeln
+
+1. Respektiert die Admins,
+2. Respektiert eure Mitspieler und deren Ausrüstung (inkl. Missions-Loot),
+3. Diebstahl und Vandalismus werden nicht geduldet,
+4. PVP ist strengstens verboten
+5. Chat-Sprache Deutsch oder Englisch,
+6. Missionen sind im Sidechat zu beanspruchen (claiming XXX) und auf der Karte zu markieren,
+7. Wenn Ihr bei einer Mission helfen wollt, fragt bitte vorher den jeweiligen Spieler,
+8. Max. 3 Fahrzeuge dürfen in der Basis stehen, der Rest in die virtuelle Garage
+9. Die Admins sind nicht für verlorene Fahrzeugschlüssel zuständig,
+10.Bitte achtet selber darauf, euch einen Ersatzschlüssel anzufertigen,
+11.Bei Unklarheiten bzgl. der Regeln fragt die Admins oder eure Mitspieler,
+12.Ohne Erlaubnis keine fremden Basen betreten und auch nicht darüber im Helikopter schweben
+
+Base Bau Regeln
+
+1. Keine öffentlichen (zur Karte gehörenden) Gebäude bebauen
+2. Admins können u.U. Sondergenehmigungen hierfür erteilen
+3. Nicht in der Nähe von Händlern und Flugfeldern bauen (Mindestabstand 1000m)(Namalsk 500m)
+4. Pro Spieler nur ein Plot Pole
+5. Nach 21 Tagen ohne Wartung (Maintain) beginnen Basen zu zerfallen
+6. Keine fliegenden Basen bauen
+
+Humanity
+Hero               20000k
+SuperHero    60000k nur Cherno
+Jet                   80000k nur Cherno
+
+Safezone
+1. Das Parken von Fahrzeugen ist in der Safezone nicht erlaubt
+2. Fahrzeuge werden nach Server-Restart in die Parkzone teleportiert
+3. Kein Diebstahl von Fahrzeugen und Ausrüstung in der Safezone
+
+Funktionstasten
+F5= Gruppenmenü
+F6=Militärische Ohrstöpsel
+F7=Fahrzeug finden
+F8=Gras ein - ausschalten
+F9=Fahrzeug umkippen 
+
+Admins
+Serverbesitzer und Scripter: Totengräber
+CO-Admins: Silver und Rico
+1. Die Anweisungen der Admins sind zu befolgen,
+2. Wenn kein Admin online ist, schreibt uns in Discord an

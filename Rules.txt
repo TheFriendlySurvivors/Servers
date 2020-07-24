@@ -1,0 +1,51 @@
+Server rules
+
+1.Respect the admins
+2.Respect the other players and their gear (incl. mission loot)
+3.Theft and vandalism will not be tolerated
+4.PVP is strictly forbidden
+5.Chat language is German or English
+6.Missions have to be claimed in side chat (claiming XXX) and marked on the map
+7.If you want to help with a mission, please ask the respective player first
+8.Max. 3 vehicles at the base, more vehicles in the virtual garage
+9.The admins are not responsible for lost vehicle keys
+10.Please make sure you make a spare key
+11.If you feel uncertain about the rules, please aks an admin or another player
+12. Do not enter foreign bases without permission and do not hover over them in a helicopter
+
+Rules for base building
+
+1.Don't build in/on public buildings (those who belongs to the map)
+2.In some cases admins can grand special permissions for that
+3.Don't build near traders or airstrips (Distance at least 1000m)(Namalsk 500m)
+4.Only one plot pole per player
+5.After 21 days without maintainance your base will start to decease
+6.No flying bases
+
+Humanity
+Hero         20000k,
+SuperHero    60000k  only Cherno
+Jet            80000k  only Cherno
+
+Safezone
+
+1.Parking vehicles in safe zones is not allowed
+2.During server restart, vehicles parked in safe zones will be teleported to the parking lot
+3.Don't steal from vehicles or backpacks in safe zones
+
+Function keys
+
+F5= Group menu
+F6=Military Ear Plugs
+F7=locate Vehicle
+F8=Gras on - off
+F9=Flip Vehicle
+
+
+Admins
+
+Server owner and scripter:Totengräber
+CO-Admins:Silver and Rico
+
+1.Admin's instructions have to be followed
+2.If no admin is only, contact us via Discord
