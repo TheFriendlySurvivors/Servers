@@ -11,4 +11,4 @@ Namalsk PVE: 116.202.166.19:2342
 Namalsk PVP: 116.202.166.19:4342
 
 *password protected! Check our Discord for more informations:
-https://discord.gg/MvkWfs
+https://discord.gg/JjkJ6T
