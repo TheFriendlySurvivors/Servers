@@ -1,0 +1,14 @@
+Chernarus*: 116.202.166.19:2302
+
+Lingor: 116.202.166.19:3302
+
+Panthera: 116.202.166.19:4302
+
+Sahrani: 116.202.166.19:3402
+
+Namalsk PVE: 116.202.166.19:2342
+
+Namalsk PVP: 116.202.166.19:4342
+
+*password protected! Check our Discord for more informations:
+https://discord.gg/MvkWfs
