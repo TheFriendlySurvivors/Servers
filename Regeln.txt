@@ -42,5 +42,7 @@ F9=Fahrzeug umkippen
 Admins
 Serverbesitzer und Scripter: Totengräber
 CO-Admins: Silver und Rico
+Mod: JumpyHumpySpider
+
 1. Die Anweisungen der Admins sind zu befolgen,
 2. Wenn kein Admin online ist, schreibt uns in Discord an
